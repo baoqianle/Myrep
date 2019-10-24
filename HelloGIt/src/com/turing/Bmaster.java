@@ -1,7 +1,7 @@
 package com.turing;
 
-public class Adev {
+public class Bmaster {
     public static void main(String[] args) {
-        System.out.println("deev创建了");
+        System.out.println("master创建了");
     }
 }
