@@ -12,5 +12,7 @@ public class text {
         System.out.println("show执行了");
         System.out.println("我是master中添加了一句话");
         System.out.println("我是master中添加了二句话");
+        System.out.println("我是dev中添加了一句话");
+        System.out.println("我是dev中添加了二句话");
     }
 }
