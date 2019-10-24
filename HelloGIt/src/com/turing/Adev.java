@@ -1,6 +1,6 @@
 package com.turing;
 
-public class Amaster {
+public class Adev {
     public static void main(String[] args) {
         System.out.println("master创建了");
     }
