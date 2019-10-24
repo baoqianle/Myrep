@@ -7,4 +7,8 @@ public class text {
             System.out.print("你好"+i);
         }
     }
+    
+    public void show(){
+        System.out.println("show执行了");
+    }
 }
